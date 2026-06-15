@@ -1,0 +1,6 @@
+port_id,port_name,state,port_type
+1,Port of Santos,SP,public
+2,Port of Itaqui,MA,public
+3,Port of Paranagua,PR,public
+4,Port of Itaguai,RJ,public
+5,Port of Suape,PE,public

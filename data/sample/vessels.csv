@@ -1,0 +1,17 @@
+vessel_id,imo,vessel_name,vessel_type,dwt
+1,9026225,MV Sample 01,bulk_carrier,54592
+2,9256787,MV Sample 02,bulk_carrier,76048
+3,9146316,MV Sample 03,bulk_carrier,69256
+4,9709570,MV Sample 04,bulk_carrier,53434
+5,9619176,MV Sample 05,oil_tanker,42790
+6,9033326,MV Sample 06,oil_tanker,130604
+7,9098246,MV Sample 07,oil_tanker,27811
+8,9243962,MV Sample 08,oil_tanker,77314
+9,9631262,MV Sample 09,container,63118
+10,9588508,MV Sample 10,container,31739
+11,9750800,MV Sample 11,container,43031
+12,9735392,MV Sample 12,container,72590
+13,9439898,MV Sample 13,general_cargo,25856
+14,9471029,MV Sample 14,general_cargo,15223
+15,9291704,MV Sample 15,general_cargo,27309
+16,9795667,MV Sample 16,general_cargo,8212

@@ -1,0 +1,91 @@
+movement_id,berthing_id,cargo_type,cargo_nature,tonnes,direction
+1,1,Gasoline,granel liquido,77171.8,import
+2,2,General Cargo,carga geral,21768.0,cabotage
+3,3,Corn,granel solido,41728.8,export
+4,4,Iron Ore,granel solido,61785.2,export
+5,5,Soybeans,granel solido,37300.8,export
+6,6,Diesel,granel liquido,22072.3,import
+7,7,Gasoline,granel liquido,123526.5,import
+8,8,Gasoline,granel liquido,54929.0,import
+9,9,Fertiliser,granel solido,49050.8,import
+10,10,Steel Products,carga geral,23180.0,export
+11,11,General Cargo,carga geral,11475.3,cabotage
+12,12,Fertiliser,granel solido,54612.8,import
+13,13,General Cargo,carga geral,21256.6,cabotage
+14,14,Iron Ore,granel solido,35661.9,export
+15,15,Crude Oil,granel liquido,111638.3,export
+16,16,Soybeans,granel solido,37380.6,export
+17,17,Gasoline,granel liquido,97357.7,import
+18,18,Iron Ore,granel solido,31219.4,export
+19,19,Steel Products,carga geral,7626.8,export
+20,20,Crude Oil,granel liquido,111288.5,export
+21,21,Gasoline,granel liquido,25303.7,import
+22,22,General Cargo,carga geral,21447.8,cabotage
+23,23,Iron Ore,granel solido,48797.3,export
+24,24,Soybeans,granel solido,58129.4,export
+25,25,General Cargo,carga geral,4835.0,cabotage
+26,26,General Cargo,carga geral,12472.9,cabotage
+27,27,Iron Ore,granel solido,34703.4,export
+28,28,Gasoline,granel liquido,18075.0,import
+29,29,Iron Ore,granel solido,64934.3,export
+30,30,Gasoline,granel liquido,70431.3,import
+31,31,Gasoline,granel liquido,90203.4,import
+32,32,General Cargo,carga geral,7252.5,cabotage
+33,33,Soybeans,granel solido,45298.9,export
+34,34,Soybeans,granel solido,51247.4,export
+35,35,Crude Oil,granel liquido,62996.0,export
+36,36,Containers,conteinerizada,31698.7,import
+37,37,Containers,conteinerizada,19857.5,export
+38,38,Diesel,granel liquido,27083.6,import
+39,39,Containers,conteinerizada,62300.0,import
+40,40,Iron Ore,granel solido,54571.1,export
+41,41,Gasoline,granel liquido,30625.6,import
+42,42,Gasoline,granel liquido,22591.9,import
+43,43,Containers,conteinerizada,36892.7,export
+44,44,Crude Oil,granel liquido,32706.1,export
+45,45,Iron Ore,granel solido,51145.5,export
+46,46,Diesel,granel liquido,41255.7,import
+47,47,Crude Oil,granel liquido,26639.4,export
+48,48,General Cargo,carga geral,15176.0,cabotage
+49,49,Gasoline,granel liquido,117154.5,import
+50,50,Diesel,granel liquido,71147.5,import
+51,51,Diesel,granel liquido,50899.2,import
+52,52,Gasoline,granel liquido,19778.4,import
+53,53,General Cargo,carga geral,23990.2,cabotage
+54,54,Containers,conteinerizada,44745.8,import
+55,55,Containers,conteinerizada,30856.6,export
+56,56,General Cargo,carga geral,11649.5,cabotage
+57,57,Iron Ore,granel solido,63832.7,export
+58,58,Containers,conteinerizada,26944.6,import
+59,59,Diesel,granel liquido,24357.6,import
+60,60,Containers,conteinerizada,30175.3,import
+61,61,Containers,conteinerizada,40375.2,import
+62,62,Crude Oil,granel liquido,96633.4,export
+63,63,Diesel,granel liquido,47538.4,import
+64,64,General Cargo,carga geral,7437.3,cabotage
+65,65,General Cargo,carga geral,25366.8,cabotage
+66,66,Fertiliser,granel solido,32947.8,import
+67,67,Crude Oil,granel liquido,85233.4,export
+68,68,Containers,conteinerizada,45618.1,import
+69,69,Steel Products,carga geral,7669.5,export
+70,70,Containers,conteinerizada,49906.4,import
+71,71,Soybeans,granel solido,46504.5,export
+72,72,Steel Products,carga geral,12532.1,export
+73,73,Corn,granel solido,52223.9,export
+74,74,General Cargo,carga geral,12747.9,cabotage
+75,75,Containers,conteinerizada,59549.1,import
+76,76,General Cargo,carga geral,17906.8,cabotage
+77,77,Steel Products,carga geral,10855.7,export
+78,78,Containers,conteinerizada,31471.2,import
+79,79,Corn,granel solido,47000.3,export
+80,80,Iron Ore,granel solido,58671.3,export
+81,81,Diesel,granel liquido,60369.6,import
+82,82,Containers,conteinerizada,57662.0,export
+83,83,Crude Oil,granel liquido,113747.5,export
+84,84,General Cargo,carga geral,16204.9,cabotage
+85,85,Containers,conteinerizada,26455.9,export
+86,86,General Cargo,carga geral,16390.5,cabotage
+87,87,Steel Products,carga geral,8276.4,export
+88,88,Steel Products,carga geral,13556.1,export
+89,89,Containers,conteinerizada,64931.4,export
+90,90,Steel Products,carga geral,19861.7,export
