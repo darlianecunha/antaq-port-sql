@@ -5,6 +5,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Python 3.9+](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org)
 [![DuckDB](https://img.shields.io/badge/SQL-DuckDB-yellow.svg)](https://duckdb.org)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20709577.svg)](https://doi.org/10.5281/zenodo.20709577)
 
 ## What this is
 
